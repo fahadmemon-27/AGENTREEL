@@ -1,0 +1,47 @@
+{
+  "facts": [
+    {
+      "claim": "K J Somaiya College of Engineering was established in 1983 as a leading institute of Somaiya Vidyavihar University in Mumbai.",
+      "source": "Brochure.pdf",
+      "page": 27,
+      "source_id": "Brochure.pdf:p27:c1",
+      "quote": "Established in 1983, K J Somaiya College of Engineering is a leading Engineering Institute of Somaiya Vidyavihar University, situated at the heart of Mumbai"
+    },
+    {
+      "claim": "The institution successfully launched the satellite Somaiya BeliefSat-0 by ISRO on January 01, 2024.",
+      "source": "Brochure.pdf",
+      "page": 31,
+      "source_id": "Brochure.pdf:p31:c1",
+      "quote": "successful launch of satellite Somaiya BeliefSat-0 by ISRO on January 01, 2024 from the Satish Dhawan Space Centre"
+    },
+    {
+      "claim": "K J Somaiya School of Engineering is NAAC A Accredited in 2025.",
+      "source": "Brochure.pdf",
+      "page": 1,
+      "source_id": "Brochure.pdf:p1:c1",
+      "quote": "Ranked 52 QS Asia 65th NIRF NAAC ‘A’ Accredited 2025 40,000+"
+    },
+    {
+      "claim": "The campus features 20 libraries and a 20 acres sports and recreational area.",
+      "source": "Brochure.pdf",
+      "page": 8,
+      "source_id": "Brochure.pdf:p8:c1",
+      "quote": "20 Libraries 20 Acres Sports & Recreational Area 20+ Clubs like Rhapsody"
+    },
+    {
+      "claim": "Students can contact admissions via email at admissions@somaiya.edu or phone at +91 70282 33777.",
+      "source": "Brochure.pdf",
+      "page": 32,
+      "source_id": "Brochure.pdf:p32:c1",
+      "quote": "+91 70282 33777 +91 86574 05673 admissions@somaiya.edu Happy to Guide Scan to apply"
+    },
+    {
+      "claim": "For more details, applicants can visit the official website at www.somaiya.edu.",
+      "source": "Brochure.pdf",
+      "page": 24,
+      "source_id": "Brochure.pdf:p24:c3",
+      "quote": "For details about eligibility, selection criteria, application form fee, and programme fees, please visit our website: www.somaiya.edu"
+    }
+  ],
+  "rejected": []
+}

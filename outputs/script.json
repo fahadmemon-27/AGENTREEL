@@ -1,0 +1,84 @@
+{
+  "segments": [
+    {
+      "type": "hook",
+      "start": 0,
+      "end": 3,
+      "vo": "Why choose K J Somaiya College of Engineering?",
+      "fact_ids": [
+        "F1"
+      ]
+    },
+    {
+      "type": "body",
+      "start": 3,
+      "end": 22,
+      "vo": "Established in 1983, it is a leading engineering institute in Mumbai. Your journey happens on a vibrant campus featuring twenty libraries and a twenty acre sports and recreational area. You can even join over twenty clubs.",
+      "fact_ids": [
+        "F1",
+        "F4"
+      ]
+    },
+    {
+      "type": "body",
+      "start": 22,
+      "end": 37,
+      "vo": "Experience incredible milestones, like the successful launch of the satellite Somaiya BeliefSat zero by ISRO. Our community is built on innovation and trust.",
+      "fact_ids": [
+        "F2"
+      ]
+    },
+    {
+      "type": "cta",
+      "start": 37,
+      "end": 45,
+      "vo": "Explore Somaiya - details on the official website at www.somaiya.edu or email admissions at admissions@somaiya.edu.",
+      "fact_ids": [
+        "F3",
+        "F5"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "claim": "K J Somaiya College of Engineering was established in 1983 as a leading institute in Mumbai.",
+      "source": "Brochure.pdf",
+      "page": 27,
+      "source_id": "Brochure.pdf:p27:c1",
+      "quote": "Established in 1983, K J Somaiya College of Engineering is a leading Engineering Institute of Somaiya Vidyavihar University",
+      "id": "F1"
+    },
+    {
+      "claim": "The Somaiya Space Research Project team successfully launched the satellite Somaiya BeliefSat-0 via ISRO.",
+      "source": "Brochure.pdf",
+      "page": 31,
+      "source_id": "Brochure.pdf:p31:c1",
+      "quote": "successful launch of satellite Somaiya BeliefSat-0 by ISRO on January 01, 2024 from the Satish Dhawan Space Centre",
+      "id": "F2"
+    },
+    {
+      "claim": "Students can contact admissions through email at admissions@somaiya.edu.",
+      "source": "Brochure.pdf",
+      "page": 32,
+      "source_id": "Brochure.pdf:p32:c1",
+      "quote": "+91 70282 33777 +91 86574 05673 admissions@somaiya.edu Happy to Guide Scan to apply",
+      "id": "F3"
+    },
+    {
+      "claim": "The campus features 20 libraries across a 20-acre sports and recreational area.",
+      "source": "Brochure.pdf",
+      "page": 8,
+      "source_id": "Brochure.pdf:p8:c1",
+      "quote": "20 Libraries 20 Acres Sports & Recreational Area 20+ Clubs like Rhapsody",
+      "id": "F4"
+    },
+    {
+      "claim": "Aspirants can find program details and visit the official website at www.somaiya.edu.",
+      "source": "Brochure.pdf",
+      "page": 24,
+      "source_id": "Brochure.pdf:p24:c3",
+      "quote": "For details about eligibility, selection criteria, application form fee, and programme fees, please visit our website: www.somaiya.edu",
+      "id": "F5"
+    }
+  ]
+}

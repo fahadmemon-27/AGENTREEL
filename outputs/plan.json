@@ -1,0 +1,49 @@
+{
+  "stages": [
+    {
+      "agent": "researcher",
+      "task": "Extract verified strengths and contact details from facts.json, ensuring no rankings or placement numbers are used.",
+      "time_budget_min": 5
+    },
+    {
+      "agent": "scriptwriter",
+      "task": "Write an energetic and inspiring 45-second script for aspirants, incorporating the verified facts and CTA.",
+      "time_budget_min": 8
+    },
+    {
+      "agent": "storyboarder",
+      "task": "Design a 9x16 vertical storyboard matching the energetic tone with visual cues for captions and end card.",
+      "time_budget_min": 6
+    },
+    {
+      "agent": "asset_generator",
+      "task": "Generate visual assets, background music, and text overlays in 1080x1920 resolution.",
+      "time_budget_min": 10
+    },
+    {
+      "agent": "editor",
+      "task": "Assemble the video, sync voiceover and captions, and ensure exact 45-second duration.",
+      "time_budget_min": 8
+    },
+    {
+      "agent": "critic",
+      "task": "Verify all success criteria including resolution, fact-checking against facts.json, and AI disclosure line.",
+      "time_budget_min": 3
+    }
+  ],
+  "budget_split": {
+    "researcher": 0.1,
+    "scriptwriter": 0.2,
+    "storyboarder": 0.15,
+    "asset_generator": 0.25,
+    "editor": 0.2,
+    "critic": 0.1
+  },
+  "success_criteria": [
+    "duration is exactly 45 seconds",
+    "resolution is 1080x1920",
+    "every claim traced to facts.json",
+    "end card with AI disclosure line",
+    "captions present"
+  ]
+}

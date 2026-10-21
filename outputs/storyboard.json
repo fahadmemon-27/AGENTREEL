@@ -1,0 +1,64 @@
+{
+  "shots": [
+    {
+      "shot": 1,
+      "start": 0.0,
+      "end": 2.7,
+      "visual": "Wide angle shot of the main campus entrance building with a slow zoom in.",
+      "on_screen_text": "Why Somaiya Engineering?",
+      "asset_source": "official",
+      "vo": "Why choose K J Somaiya College of Engineering?",
+      "duration": 2.7
+    },
+    {
+      "shot": 2,
+      "start": 2.7,
+      "end": 10.9,
+      "visual": "Exterior shot of a modern college building surrounded by lush green trees.",
+      "on_screen_text": "Established in 1983",
+      "asset_source": "official",
+      "vo": "Established in 1983, it is a leading engineering institute in Mumbai.",
+      "duration": 8.2
+    },
+    {
+      "shot": 3,
+      "start": 10.9,
+      "end": 20.0,
+      "visual": "Panoramic view of the sprawling campus grounds and sports area.",
+      "on_screen_text": "Vibrant Campus & Facilities",
+      "asset_source": "official",
+      "vo": "Your journey happens on a vibrant campus featuring twenty libraries and a twenty acre sports and recreational area. You can even join over twenty clubs.",
+      "duration": 9.1
+    },
+    {
+      "shot": 4,
+      "start": 20.0,
+      "end": 27.3,
+      "visual": "Modern interior laboratory space with advanced equipment and instruments.",
+      "on_screen_text": "Innovation & Research",
+      "asset_source": "official",
+      "vo": "Experience incredible milestones, like the successful launch of the satellite Somaiya BeliefSat zero by ISRO.",
+      "duration": 7.3
+    },
+    {
+      "shot": 5,
+      "start": 27.3,
+      "end": 33.7,
+      "visual": "Architectural shot of campus buildings under a bright sunny sky.",
+      "on_screen_text": "Built on Trust",
+      "asset_source": "official",
+      "vo": "Our community is built on innovation and trust.",
+      "duration": 6.4
+    },
+    {
+      "shot": 6,
+      "start": 33.7,
+      "end": 41.0,
+      "visual": "Clean text card displaying website and admissions email details against a solid branded background.",
+      "on_screen_text": "Visit www.somaiya.edu",
+      "asset_source": "generated",
+      "vo": "Explore Somaiya - details on the official website at www.somaiya.edu or email admissions at admissions@somaiya.edu.",
+      "duration": 7.3
+    }
+  ]
+}

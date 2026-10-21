@@ -1,0 +1,12 @@
+file,source,licence
+assets\audio\seg1.mp3,Edge-TTS neural voice en-IN-NeerjaNeural,"synthetic voice, no real person"
+assets\audio\seg2.mp3,Edge-TTS neural voice en-IN-NeerjaNeural,"synthetic voice, no real person"
+assets\audio\seg3.mp3,Edge-TTS neural voice en-IN-NeerjaNeural,"synthetic voice, no real person"
+assets\audio\seg4.mp3,Edge-TTS neural voice en-IN-NeerjaNeural,"synthetic voice, no real person"
+assets/shots/shot1.png,assets\official\campus.jpg,official media kit
+assets/shots/shot2.png,assets\official\canteen.webp,official media kit
+assets/shots/shot3.png,assets\official\eklavy.jpg.jpeg,official media kit
+assets/shots/shot4.png,assets\official\garden.jpg.jpeg,official media kit
+assets/shots/shot5.png,assets\official\images (1).jpg.jpeg,official media kit
+assets/shots/shot6.png,assets\official\KJ_somaiya1.jpg.jpeg,official media kit
+assets/end_card.png,generated (Pillow),own work; logo only if official file supplied

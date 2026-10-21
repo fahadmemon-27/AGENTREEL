@@ -1,0 +1,79 @@
+{
+  "pass": true,
+  "checks": [
+    {
+      "check": "duration 30-60s",
+      "pass": true,
+      "detail": "48.3s",
+      "route_to": "scriptwriter"
+    },
+    {
+      "check": "resolution 1080x1920",
+      "pass": true,
+      "detail": "[1080, 1920]",
+      "route_to": "editor"
+    },
+    {
+      "check": "frame rate 25/30",
+      "pass": true,
+      "detail": "30.0",
+      "route_to": "editor"
+    },
+    {
+      "check": "file size <= 100MB",
+      "pass": true,
+      "detail": "8.1MB",
+      "route_to": "editor"
+    },
+    {
+      "check": "subtitles .srt exists",
+      "pass": true,
+      "detail": "outputs/final.srt",
+      "route_to": "editor"
+    },
+    {
+      "check": "AI disclosure on end card",
+      "pass": true,
+      "detail": "Created with AI agents — LY Agentic AI Lab",
+      "route_to": "editor"
+    },
+    {
+      "check": "facts were retrieved",
+      "pass": true,
+      "detail": "5 facts",
+      "route_to": "researcher"
+    },
+    {
+      "check": "script has body segments",
+      "pass": true,
+      "detail": "2 body segments",
+      "route_to": "scriptwriter"
+    },
+    {
+      "check": "every body segment cites a fact",
+      "pass": true,
+      "detail": "fact_ids present",
+      "route_to": "scriptwriter"
+    },
+    {
+      "check": "all facts have source + page",
+      "pass": true,
+      "detail": "5 facts",
+      "route_to": "scriptwriter"
+    },
+    {
+      "check": "numbers in script appear in facts",
+      "pass": true,
+      "detail": "ok",
+      "route_to": "scriptwriter"
+    },
+    {
+      "check": "no unverified ranking/placement words",
+      "pass": true,
+      "detail": "ok",
+      "route_to": "scriptwriter"
+    }
+  ],
+  "feedback": null,
+  "route_to": null
+}

@@ -1,0 +1,120 @@
+{
+  "body_s": 44.28,
+  "shots": [
+    {
+      "image": "assets/shots/shot1.png",
+      "start": 0.0,
+      "end": 2.92
+    },
+    {
+      "image": "assets/shots/shot2.png",
+      "start": 2.92,
+      "end": 11.78
+    },
+    {
+      "image": "assets/shots/shot3.png",
+      "start": 11.78,
+      "end": 21.61
+    },
+    {
+      "image": "assets/shots/shot4.png",
+      "start": 21.61,
+      "end": 29.49
+    },
+    {
+      "image": "assets/shots/shot5.png",
+      "start": 29.49,
+      "end": 36.4
+    },
+    {
+      "image": "assets/shots/shot6.png",
+      "start": 36.4,
+      "end": 44.28
+    }
+  ],
+  "audio": [
+    "assets\\audio\\seg1.mp3",
+    "assets\\audio\\seg2.mp3",
+    "assets\\audio\\seg3.mp3",
+    "assets\\audio\\seg4.mp3"
+  ],
+  "captions": [
+    {
+      "start": 0.0,
+      "end": 2.59,
+      "text": "Why choose K J Somaiya College"
+    },
+    {
+      "start": 2.59,
+      "end": 3.89,
+      "text": "of Engineering?"
+    },
+    {
+      "start": 3.89,
+      "end": 6.1,
+      "text": "Established in 1983, it is a"
+    },
+    {
+      "start": 6.1,
+      "end": 9.65,
+      "text": "leading engineering institute in Mumbai. Your"
+    },
+    {
+      "start": 9.65,
+      "end": 12.41,
+      "text": "journey happens on a vibrant campus"
+    },
+    {
+      "start": 12.41,
+      "end": 15.48,
+      "text": "featuring twenty libraries and a twenty"
+    },
+    {
+      "start": 15.48,
+      "end": 18.48,
+      "text": "acre sports and recreational area. You"
+    },
+    {
+      "start": 18.48,
+      "end": 21.0,
+      "text": "can even join over twenty clubs."
+    },
+    {
+      "start": 21.0,
+      "end": 25.21,
+      "text": "Experience incredible milestones, like the successful"
+    },
+    {
+      "start": 25.21,
+      "end": 28.46,
+      "text": "launch of the satellite Somaiya BeliefSat"
+    },
+    {
+      "start": 28.46,
+      "end": 30.84,
+      "text": "zero by ISRO. Our community is"
+    },
+    {
+      "start": 30.84,
+      "end": 33.22,
+      "text": "built on innovation and trust."
+    },
+    {
+      "start": 33.22,
+      "end": 36.35,
+      "text": "Explore Somaiya - details on the"
+    },
+    {
+      "start": 36.35,
+      "end": 40.66,
+      "text": "official website at www.somaiya.edu or email"
+    },
+    {
+      "start": 40.66,
+      "end": 44.28,
+      "text": "admissions at admissions@somaiya.edu."
+    }
+  ],
+  "end_card": "assets/end_card.png",
+  "end_text": "Created with AI agents — LY Agentic AI Lab"
+}
