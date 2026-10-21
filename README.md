@@ -2,7 +2,7 @@
 
 Autonomous multi-agent pipeline that turns a brief (`brief.yaml`) into a 30-60 s promotional video for K J Somaiya School of Engineering. Built for the LY Agentic AI Laboratory evaluation.
 
-**Team:** [Member 1 name], [Member 2 name] | **Faculty in-charge:** Dr Pankaj Mishra
+**Team:** Fahad Memon, Shifan Badgujar | **Faculty in-charge:** Dr Pankaj Mishra
 **Brief used:** B06 - "Why Somaiya?" (aspirants, 9:16 vertical, English)
 
 ## Autonomy level: L4 (full autonomy)
